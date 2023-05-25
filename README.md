@@ -4,3 +4,5 @@ The user registers from the login register page you see in the picture below
 
 Then registered users can easily see each other
 <img width="926" alt="Screenshot 2023-05-25 114315" src="https://github.com/ElnurAliyev07/RealTimeChatApp/assets/115114253/255ea5cb-db92-416f-ad18-3f3c074e06b9">
+
+And they can easily access each other's profile and communicate
